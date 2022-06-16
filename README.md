@@ -4,4 +4,4 @@
 
 🌟 I'm interested about Data,AI,Game
 
-![p1](https://user-images.githubusercontent.com/84030256/174113222-429d13fb-b4db-432b-87eb-9873de503fb2.jpg)
+![p1](https://user-images.githubusercontent.com/84030256/174114758-7aa99a9f-b3d9-4398-951f-efb7b910ef70.jpg)
