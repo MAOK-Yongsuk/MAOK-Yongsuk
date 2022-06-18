@@ -11,6 +11,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maok-yongsuk&show_icons=true&theme=dark&locale=en&layout=compact" alt="maok-yongsuk" /></p>
 
-![basicxbar](https://user-images.githubusercontent.com/84030256/174446286-47a08369-9eed-4a66-b449-8f0b883683f8.svg)
+![basicxbar (1)](https://user-images.githubusercontent.com/84030256/174448512-32b44793-955f-48eb-8918-89f95e5b8cfa.svg)
 
 
