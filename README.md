@@ -11,6 +11,12 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maok-yongsuk&show_icons=true&theme=dark&locale=en&layout=compact" alt="maok-yongsuk" /></p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maok-yongsuk&label=Profile%20views&color=0e75b6&style=flat" alt="maok-yongsuk" /> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
 ### CERTIFICATION:
 
 <blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.badgr.io/public/assertions/DhUtgSIJSjau3Kslw_53pg?identity__email=aaa.gc68%40gmail.com"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/DhUtgSIJSjau3Kslw_53pg/image"></a><p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word; margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">Hello World Mini-Data Science Bootcamp</p><p class="badgr-badge-date" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded: </strong>Jun 8, 2022</p><p class="badgr-badge-recipient" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded To: </strong><span style="display: block;"> Yongsuk Prasertsuk</span></p>
